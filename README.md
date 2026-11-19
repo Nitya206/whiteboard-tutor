@@ -37,7 +37,7 @@ No GitHub account needed. The zip holds one HTML file plus the instructions Clau
 - The voice plays in desktop Chrome or Edge, and only if your account has Claude's voice for artifacts. In Safari and the Claude mobile apps there's no voice.
 - It starts on the **Saver** model setting (Sonnet for everything), the fastest. For better explanations at the cost of speed, open **Models** at the top and pick Balanced or Max quality (Opus).
 - If it looks broken the first time you open it, refresh the page or the Claude desktop app.
-- Your lessons stay in your own browser. The tutor runs on your own Claude usage.
+- Your lessons sync across your devices through your Claude account, where your account supports it. They're private to you: not even the person who shared the app can see them. The tutor runs on your own Claude usage.
 - Your copy doesn't update by itself. Download the latest zip and install again to update.
 
 ## What's in the repo
