@@ -4,7 +4,7 @@ A Claude artifact that teaches any topic on a chalkboard. Claude draws each part
 
 ![Whiteboard Tutor drawing a slide](media/preview.gif)
 
-[Watch the 27-second demo](media/demo.mp4)
+[Watch the 25-second demo](media/demo.mp4)
 
 ## Install (about 2 minutes)
 
