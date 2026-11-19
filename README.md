@@ -1,10 +1,10 @@
 # Whiteboard Tutor
 
-A Claude artifact that teaches any topic on a chalkboard. Claude draws each part while its voice explains it, and quizzes you as you go.
+A Claude artifact that teaches any topic on a board. Claude draws each part while its voice explains it, and quizzes you as you go.
 
 ![Whiteboard Tutor drawing a slide](media/preview.gif)
 
-[Watch the 25-second demo](media/demo.mp4)
+[Watch the 30-second demo](media/demo.mp4)
 
 ## Install (about 2 minutes)
 
